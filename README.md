@@ -7,5 +7,5 @@ Using a terminal change directory to `weather-app`.
 Setup the app by running `npm install` in the terminal
 
 ### `npm start`
-To start the program run `npm start`, and the app is runs in development mode.\
+To start the program run `npm start`, and the app runs in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
