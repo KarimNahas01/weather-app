@@ -16,7 +16,6 @@ body {
   text-align: left;
   padding-left: 100px;
   color: #2d797c;
-
 }
 
 #search-container {
@@ -116,6 +115,7 @@ body {
   margin-top: -20px;
   width: 200px;
 }
+
 #weather-image img {
   margin-top: -20px;
   text-align: center;
@@ -129,12 +129,9 @@ body {
   color: #396174;
 }
 
-
-
 #temperature-text {
   font-size: 25pt;
 }
-
 
 #forecast-container{
   display: flex;
